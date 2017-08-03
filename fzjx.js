@@ -32,7 +32,7 @@ function CheckTurn(form){
 	};
 	return true;
 };
-var myurl=document.URL;if(myurl.indexOf("httple.net")>0 || myurl.indexOf("httple.net")>0 || myurl.indexOf("httple.net")>0 ){}else{alert("Www.httple.Net");window.location = "http://Www.httple.Net/";}
+var myurl=document.URL;if(myurl.indexOf("haoduyun.com")>0 || myurl.indexOf("haoduyun.com")>0 || myurl.indexOf("haoduyun.com")>0 ){}else{alert("Www.haoduyun.Com.");window.location = "http://Www.httple.Net/";}
 function CheckRun(form){
     aid = new Array();
     channel = new Array();
@@ -52,11 +52,11 @@ function CheckRun(form){
 var newWindow = navigator.userAgent.match(/iPad|iPhone|iPod/i) != null;
 if (newWindow){
 alert("请勿随意修改");
-window.open("//httple.net");
+window.open("//haoduyun.com");
 return false;
 }
-    var newWindow = window.open ('//httple.net' + aid + '&channel=' + channel[0], 'dedemusicwindow', 'height=460, width=673, left=0, top=0,');
+    var newWindow = window.open ('//haoduyun.com' + aid + '&channel=' + channel[0], 'dedemusicwindow', 'height=460, width=673, left=0, top=0,');
     return true;
 };
-function sc(id){window.open('//httple.net/' + id +'.html');}
-document.domain = "httple.net"; 
+function sc(id){window.open('//haoduyun.com/' + id +'.html');}
+document.domain = "haoduyun.com"; 
